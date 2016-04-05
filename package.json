@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-overview",
+  "version": "0.1.2",
+  "description": "Customize the Android Overview Screen",
+  "main": "index.js",
+  "scripts": {},
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=5.0.0"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doctolib/cordova-plugin-overview"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "overview",
+    "statusbar",
+    "color"
+  ],
+  "author": "Doctolib <tech@doctolib.fr>",
+  "license": "MIT"
+}
